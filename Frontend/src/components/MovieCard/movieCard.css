@@ -1,0 +1,16 @@
+.movieCard:hover button{
+    display: block;
+}
+.movieCard button{
+    position:absolute;
+    display:none;
+}
+
+ button.edit {
+    position: absolute;
+    bottom:   0;
+}
+ button.delete {
+    position: absolute;
+    bottom:   0;
+}

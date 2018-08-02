@@ -1,0 +1,16 @@
+.tvCard:hover button{
+    display: block;
+}
+.tvCard button{
+    position:absolute;
+    display:none;
+}
+
+ button.edit {
+    position: absolute;
+    bottom:   0;
+}
+ button.delete {
+    position: absolute;
+    bottom:   0;
+}
